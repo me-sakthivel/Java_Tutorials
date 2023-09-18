@@ -1,6 +1,6 @@
 abstract class Geomentry{
-    static final double PI = 3.1414592;
-    public abstract double area();
+    static final double PI = 3.1414592;// by default public static final 
+    public abstract double area();// by default public abstract method
     public abstract double circumference();
 }
 
